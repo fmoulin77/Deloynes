@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Projet de site pour une édition de la collection Deloynes
 
 You can use the [editor on GitHub](https://github.com/fmoulin77/Deloynes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
