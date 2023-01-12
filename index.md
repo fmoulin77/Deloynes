@@ -1,6 +1,7 @@
---
-layout: home list_title: "table des matières"
---
+---
+layout: home 
+list_title: "table des matières"
+---
 ## Projet de site pour une édition de la collection Deloynes avec les étudiants de L3 de Lettres de Nanterre
 
 You can use the [editor on GitHub](https://github.com/fmoulin77/Deloynes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
